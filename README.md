@@ -1,5 +1,5 @@
 # ToDoList
-Simply ToDo application developed using SwiftUI
+Simple ToDo application developed using SwiftUI
 
 ## Features
 
