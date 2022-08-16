@@ -1,4 +1,30 @@
-# toDoList
-Todolist application developed using SwiftUI
+# ToDoList
+Simply ToDo application developed using SwiftUI
 
-![RPReplay_Final1655502198](https://user-images.githubusercontent.com/56328971/174405354-2600c77d-4d8c-41cf-a12f-aadc3ba24668.gif)
+## Features
+
+- Create task
+- Edit task (if not marked as completed)
+- Filter tasks by priority
+- Delete task
+
+## Built With
+
+* SwiftUI
+* CoreData
+
+## Demo
+
+<p>
+<img src="./assets/NewTask.png" width=200>
+<img src="./assets/MainScreen.png" width=200>
+<img src="./assets/EditTask.png" width=200>
+<img src="./assets/PriorityChange.png" width=200>
+<img src="./assets/EmptyView.png" width=200>
+<img src="./assets/Swipe-done.png" width=200>
+<img src="./assets/Swipe-delete.png" width=200>
+</p>
+
+## License
+
+GNU General Public License v3.0
